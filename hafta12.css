@@ -1,0 +1,35 @@
+/*comment*/
+.conteiner{
+        /*display: inline-block;*/
+        display: inline-grid;  /*blok elemanlari satir ici yapar*/
+}
+.conteiner .box{
+    border: 1px solid #453c67;
+}
+.one{
+    background-color: #027B7E;
+}
+.two{
+    background-color:#D6E1A5 ;
+}
+.three{
+      background-color:#03051E ;
+}
+.four{
+     background-color: #DAFAF8;
+}
+.five{
+     background-color: #D6E1A5;
+}
+.six{
+    background-color: #027B7E;
+}
+.seven{
+      background-color: #027B7E;
+}
+.eight{
+      background-color: #2A014B;
+}
+.nine{
+     background-color: #7D156D;
+}
